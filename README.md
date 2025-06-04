@@ -4,7 +4,7 @@ This repository contains the front-end code for the "Typing Master" website, des
 
 ## Features
 
-The website includes the following pages and functionalities:
+### The website includes the following pages and functionalities:
 
 1.  **First/Landing Page (`First.html`):**
     * Introduction to the website with a modern, inviting design.
